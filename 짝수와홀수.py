@@ -3,5 +3,5 @@ def solution(num):
     if num%2==0:
         answer="Even"
     else:
-        answer="Oddasdasasdasdsadsadsadd"
+        answer="Odd"
     return answer
